@@ -1,4 +1,4 @@
-# Coped from original asset: https://github.com/philschmid/huggingface-sagemaker-workshop-series in order to modify
+[Coped from original asset: https://github.com/philschmid/huggingface-sagemaker-workshop-series in order to modify]
 # Workshop: Enterprise-Scale NLP with Hugging Face & Amazon SageMaker
 
 ![](./imgs/cover.png)
